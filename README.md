@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **mshine644@gmail.com**
 
-- ⚡ 4Fun **One day, I will hack into NASA by using HTML 😎😝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
