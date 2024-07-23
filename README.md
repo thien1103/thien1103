@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thien1103&show_icons=true&locale=en" alt="thien1103" /></p>
 
 
-![snake gif](https://github.com/thien1103/thien1103/blob/output/github-contribution-grid-snake.git)
+![snake gif](https://github.com/thien1103/thien1103/blob/output/github-contribution-grid-snake.gif)
