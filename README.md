@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Backend developer from HCMCUTE</h3>
 <img align="right" alt="Coding" with="400" src ="https://media3.giphy.com/media/JqmupuTVZYaQX5s094/200w.gif?cid=6c09b952yjvrxzrx9nnl36jzq2gt8q6baqzlzwqrreqiaebo&ep=v1_gifs_search&rid=200w.gif&ct=g?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=ais_user">
 
-- 👯 I’m looking to collaborate on **.NET and NodeJS Backend Projects**
+- 👯 I’m looking to collaborate on **NodeJS/ReactJS Fullstack Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thien1103](https://github.com/thien1103)
 
-- 💬 Ask me about **Vue,.NET or NodeJS Backend Projects**
+- 💬 Feel free to ask me about **ReactJS or NodeJS Projects**
 
 - 📫 How to reach me **mshine644@gmail.com**
 
