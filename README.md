@@ -9,7 +9,7 @@
 
 - 💬 Feel free to ask me about **ReactJS or NodeJS Projects**
 
-- 📫 How to reach me **mshine644@gmail.com**
+- 📫 How to reach me **tuhaothien52@gmail.com** or via phone **(+84)377587953**
 
 
 <h3 align="left">Connect with me:</h3>
