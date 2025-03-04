@@ -1,7 +1,7 @@
 ![Header](./githubheader.png)
 <h1 align="center">Hi 👋, I'm Tu Hao Thien</h1>
 <h3 align="center">A passionate Backend developer from HCMCUTE</h3>
-<img align="right" alt="Coding" with="400" src ="https://media3.giphy.com/media/JqmupuTVZYaQX5s094/200w.gif?cid=6c09b952yjvrxzrx9nnl36jzq2gt8q6baqzlzwqrreqiaebo&ep=v1_gifs_search&rid=200w.gif&ct=g?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=ais_user">
+<img align="right" alt="Coding" src ="https://private-user-images.githubusercontent.com/74038190/240904074-324065af-8ea3-453a-83a3-66ccba5797fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEwNzkyNDMsIm5iZiI6MTc0MTA3ODk0MywicGF0aCI6Ii83NDAzODE5MC8yNDA5MDQwNzQtMzI0MDY1YWYtOGVhMy00NTNhLTgzYTMtNjZjY2JhNTc5N2ZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA0VDA5MDIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAxYzgyMmNiMWY4YTI3MmQ2MzUxNjUzODhkYjMyMTBlMzQwZTczYTE2MGRiZmE0MzIzM2NkYmJkYzE5YjA1MjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a191y75P4Spig30R23E7s6Q0CS2VALByxj8Zf0OnZwM">
 
 - 👯 I’m looking to collaborate on **NodeJS/ReactJS Fullstack Projects**
 
@@ -24,11 +24,10 @@
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thien1103&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000" alt="thien1103" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thien1103&show_icons=true&locale=en&theme=dark&bg_color=00000000" alt="thien1103" /></p>
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thien1103&show_icons=true&locale=en&theme=dark&bg_color=00000000" alt="thien1103" /> </p>
 
 ![snake gif](https://github.com/thien1103/thien1103/blob/output/github-contribution-grid-snake.svg)
 
+<img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="90%"/>
