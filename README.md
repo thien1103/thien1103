@@ -1,6 +1,6 @@
 ![Header](./githubheader.png)
 <h1 align="center">Hi 👋, I'm Tu Hao Thien</h1>
-<h3 align="center">A passionate Backend developer from HCMCUTE</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 <img align="right" alt="Coding" src ="https://private-user-images.githubusercontent.com/74038190/240904074-324065af-8ea3-453a-83a3-66ccba5797fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEwNzkyNDMsIm5iZiI6MTc0MTA3ODk0MywicGF0aCI6Ii83NDAzODE5MC8yNDA5MDQwNzQtMzI0MDY1YWYtOGVhMy00NTNhLTgzYTMtNjZjY2JhNTc5N2ZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA0VDA5MDIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAxYzgyMmNiMWY4YTI3MmQ2MzUxNjUzODhkYjMyMTBlMzQwZTczYTE2MGRiZmE0MzIzM2NkYmJkYzE5YjA1MjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a191y75P4Spig30R23E7s6Q0CS2VALByxj8Zf0OnZwM">
 
 - 👯 I’m looking to collaborate on **NodeJS/ReactJS Fullstack Projects**
